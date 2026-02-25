@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ねっちゅーシンドローム",
+  "base_artist": "魔法少女ホロウィッチ！",
+  "createdAt": "2026-02-25T11:01:02.839007Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ねっちゅーシンドローム",
+      "artist": "魔法少女ホロウィッチ!",
+      "has_synced": false,
+      "path": "select/pl_01_ねっちゅーシンドローム_魔法少女ホロウィッチ!.txt"
+    }
+  ]
+}
